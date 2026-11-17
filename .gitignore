@@ -1,0 +1,4 @@
+langagent/
+__pycache__/
+*.pyc
+.env
